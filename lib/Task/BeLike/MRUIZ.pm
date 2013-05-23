@@ -8,13 +8,12 @@ use warnings;
 1;
 
 __END__
+
 =pod
 
 =head1 NAME
 
-=head1 SYNOPSIS
-
-=head1 DESCRIPTION
+Task::BeLike::MRUIZ - Perl modules MRUIZ likes to use
 
 =head1 AUTHOR
 
@@ -27,7 +26,7 @@ Miquel Ruiz <mruiz@cpan.org>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2012 by Miquel Ruiz.
+This software is copyright (c) 2013 by Miquel Ruiz.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
